@@ -1,2 +1,2 @@
-# 1170px-12Col-Grid
-12 Column - 1170px Grid
+# Grid - 12 Column
+A 12 Column grid for designing websites with 1170px
